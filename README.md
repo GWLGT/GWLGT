@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GWLGT
-- 👀 I’m interested in Low Level Programming
-- 🌱 I’m currently learning C, C++ and Assembly
-- 💞️ I’m looking to collaborate on Making C Program, C++ games etc
+- 👀 I’m interested in Middle-level programming
+- 🌱 I’m currently learning C++ and Lua
+- 💞️ I’m looking to collaborate on Making C++ program, and making PSP/OpenGL gamss
 - 📫 How to reach me -
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm starting to get interested in programming at the age of 13
