@@ -6,8 +6,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm starting to get interested in programming at the age of 13
 
-!!! note "NOTE"
-    I'm only working on my Phone ([Termux](https://github.com/termux/termux-app)), i don't have Desktop, so don't expect me to Contribute that Much!.
+- 📝 NOTE:
+> I'm only working on my Phone ([Termux](https://github.com/termux/termux-app)), i don't have Desktop, so don't expect me to Contribute that Much!.
 
 <!---
 GWLGT/GWLGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
